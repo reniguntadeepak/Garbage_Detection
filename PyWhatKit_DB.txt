@@ -1,0 +1,80 @@
+Date: 17/9/2023
+Time: 22:5
+Phone Number: +916304615072
+Message: Hi, how are you?
+--------------------
+Date: 17/9/2023
+Time: 22:7
+Phone Number: +919398058458
+Message: Hi, how are you?
+--------------------
+Date: 17/9/2023
+Time: 22:8
+Phone Number: +919398058458
+Message: garbage detection?
+--------------------
+Date: 17/9/2023
+Time: 22:10
+Phone Number: +919398058458
+Message: garbage detection?
+--------------------
+Date: 17/9/2023
+Time: 22:13
+Phone Number: +919398058458
+Message: garbage detection?
+--------------------
+Date: 17/9/2023
+Time: 22:20
+Phone Number: +916304615072
+Message: Garbage detected!
+--------------------
+Date: 17/9/2023
+Time: 22:22
+Phone Number: +916304615072
+Message: Garbage detected!
+--------------------
+Date: 17/9/2023
+Time: 22:24
+Phone Number: +916304615072
+Message: Garbage detected!
+--------------------
+Date: 17/9/2023
+Time: 22:36
+Phone Number: +919398058458
+Message: garbage detection https://i.ibb.co/d2YJm8j/detection-module.png
+--------------------
+Date: 17/9/2023
+Time: 22:38
+Phone Number: +919398058458
+Message: garbage detection https://i.ibb.co/d2YJm8j/detection-module.png
+--------------------
+Date: 17/9/2023
+Time: 23:4
+Phone Number: +919398058458
+Message: Hey, Grbage detected in street no 1 BK enclave, Clean it as soon as possible
+--------------------
+Date: 17/9/2023
+Time: 23:6
+Phone Number: +919398058458
+Message: Hey, Grbage detected in street no 1 BK enclave, Clean it as soon as possible
+--------------------
+Date: 5/10/2023
+Time: 15:11
+Phone Number: +919398058458
+Message: Hey, Grbage detected in street no 1 BK enclave, Clean it as soon as possible
+--------------------
+Date: 5/10/2023
+Time: 15:13
+Phone Number: +919398058458
+Message: Hey, Grbage detected in street no 1 BK enclave, Clean it as soon as possible
+--------------------
+Date: 5/10/2023
+Time: 15:16
+Phone Number: +919398058458
+Message: Hey, Grbage detected in street no 1 BK enclave, Clean it as soon as possible
+--------------------
+Date: 5/10/2023
+Time: 15:25
+Phone Number: +917013545123
+Message: Hey, Grbage detected in street no 1 BK enclave, Clean it as soon as possible
+--------------------
